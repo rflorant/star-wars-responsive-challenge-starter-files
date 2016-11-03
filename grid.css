@@ -58,3 +58,10 @@
   }
 }
 
+@media only screen and (max-width: 640px) {
+
+.box {
+	margin-bottom: 15px;
+
+}
+}
